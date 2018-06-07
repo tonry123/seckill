@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="jdbc:hsqldb:file:D:/idea/IntelliJ IDEA 2017.2.5/workspaces/seckill/src/main/sql\4.1.7.RELEASE/" uuid="839158d4-5c6a-4ff5-93b0-51c14f6bd439">
+      <driver-ref>hsqldb.local</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>org.hsqldb.jdbc.JDBCDriver</jdbc-driver>
+      <jdbc-url>jdbc:hsqldb:file:$PROJECT_DIR$/src/main/sql\4.1.7.RELEASE/</jdbc-url>
+    </data-source>
+  </component>
+</project>
